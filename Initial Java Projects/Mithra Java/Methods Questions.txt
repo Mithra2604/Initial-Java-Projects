@@ -1,0 +1,35 @@
+Java Methods:
+
+1.Create a simple Java program with a method that calculates and returns the factorial of a given number using a recursive method call.
+
+
+Java Method Parameters:
+
+2.Write a Java program that defines a method to calculate the area of a rectangle. The method should take the length and width of the rectangle as parameters and return the area.
+
+3.Create a method that accepts an array of integers and returns the sum of all the elements in the array.
+
+
+
+Java Method Overloading:
+
+1.Implement method overloading for a "print" method that can print different types of data such as int, double, and String.
+
+2.Create a class that includes overloaded constructors, allowing you to initialize objects with different sets of parameters.
+
+
+
+Java Scope:
+
+1.Define a local variable inside a method and try to access it outside the method to understand the concept of variable scope.
+
+2.Create a class with instance variables and methods. Explore the scope of these variables within different methods of the class.
+
+
+
+Java Recursion:
+
+1.Write a Java program to calculate the nth Fibonacci number using a recursive method. The method should take an integer 'n' as a parameter and return the nth Fibonacci number.
+
+2.Implement a recursive method to solve the Towers of Hanoi problem. The method should move a stack of disks from one peg to another, following the rules of the game.
+
